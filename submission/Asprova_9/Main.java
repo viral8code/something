@@ -49,7 +49,7 @@ class Main{
 				}
 			}
 			//TODO
-			//�����łȂ񂩏�肢���Ƃ��
+			//ここでなんか上手いことやる
 			if(trigger){
 				if(time<4.0){
 					time = (java.lang.System.nanoTime()-startTime)/1e9;
@@ -540,7 +540,7 @@ class Library{
 	}
 }
 /*////////////////////////////////////////////////
-	* ���͗p *
+	* 入力用 *
 */////////////////////////////////////////////////
 class SimpleScanner{
 	private final int buff_size=1<<15;
