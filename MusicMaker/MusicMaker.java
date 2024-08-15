@@ -163,7 +163,8 @@ public class MusicMaker {
 		final int n4 = MusicMaker.BAR_LENGTH/4;
 		final int n8 = MusicMaker.BAR_LENGTH/8;
 		final int n16 = MusicMaker.BAR_LENGTH/16;
-		
+
+		//エリーゼのために
 		final int[] note1 =   {
 			0,
 			76,75,
